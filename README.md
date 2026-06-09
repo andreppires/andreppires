@@ -49,6 +49,13 @@
 
 - [**OSPF-ABR / Arbitrary Topologies**](https://github.com/andreppires/OSPF-ABR_ArbTop) — MSc thesis work extending the OSPF routing protocol to support arbitrary topologies between Area Border Routers while keeping backward compatibility. `Python`
 
+### 📈 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreppires&show_icons=true&theme=default&hide_border=true&count_private=true" alt="André's GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreppires&layout=compact&theme=default&hide_border=true&count_private=true" alt="Top languages" height="165">
+</p>
+
 ---
 
 <p align="center"><i>Find more about me at <a href="https://andreppires.xyz">andreppires.xyz</a> 🚀</i></p>
