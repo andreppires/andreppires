@@ -19,6 +19,7 @@
 - ☸️ I work day-to-day with **Kubernetes, Helm, Terraform, and ArgoCD**, with a strong focus on **monitoring and security**.
 - 📡 Background in telecommunications & informatics engineering (MSc, Instituto Superior Técnico) — I started out extending routing protocols before moving into infrastructure and platform engineering.
 - 🧩 Problem solver at heart.
+- 🌱 Currently exploring **AI foundations** and how to level up automation & engineering workflows with **LLMs**.
 
 ### ⚙️ Tech stack
 
@@ -35,6 +36,18 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
+**Kubernetes add-ons & networking**
+
+![Ingress-NGINX](https://img.shields.io/badge/Ingress--NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![cert-manager](https://img.shields.io/badge/cert--manager-3088C7?style=flat-square&logo=letsencrypt&logoColor=white)
+![external-dns](https://img.shields.io/badge/external--dns-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+**Secrets management**
+
+![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![External Secrets](https://img.shields.io/badge/External%20Secrets-5A2D81?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
 **Observability** — Prometheus + the Grafana LGTM stack
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -48,9 +61,22 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket%20Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
+**Foundations**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 💼 Experience
+
+- **DevOps Engineer** · Engine AI — *Nov 2023 – Present*
+- **DevOps Engineer** · D-Orbit — *Oct 2018 – Nov 2023*  &nbsp;_(also Scrum Master, 2020–2021)_
+- **Software Developer** · Nokia — *Aug 2018 – Oct 2018*
+- **Student Researcher** · Instituto de Telecomunicações — *Sep 2016 – Jun 2018*
 
 ### 📌 Featured project
 
