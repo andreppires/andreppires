@@ -42,12 +42,6 @@
 ![cert-manager](https://img.shields.io/badge/cert--manager-3088C7?style=flat-square&logo=letsencrypt&logoColor=white)
 ![external-dns](https://img.shields.io/badge/external--dns-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**Secrets management**
-
-![Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=white)
-![External Secrets](https://img.shields.io/badge/External%20Secrets-5A2D81?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure Key Vault](https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
 **Observability** — Prometheus + the Grafana LGTM stack
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
